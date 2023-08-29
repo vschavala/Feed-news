@@ -11,3 +11,10 @@ Steps to install the project
 3. you can change the picture and update the details
 4. you can see the list of News feed
 5. you can book mark it, it will show on same dashboard with division 
+
+# File and folders
+ 1. LoginRegisterController --- it contains all the authentication process
+ 2. BookMarks Controller -- it contains bookmarking the feed list
+ 3. ProfileController-- it contains user profile related, image and details
+ 4. Other than this created a service for News feed 
+ 5. Also Models, migrations, Test cases 
